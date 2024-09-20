@@ -65,7 +65,7 @@ def get_attribute_fill_color(attribute_name):
 
     return PatternFill(start_color=base_color, end_color=base_color, fill_type='solid')
 
-with open('module_extra_to_files_mapping3.json', 'r', encoding='utf-8') as f:
+with open('Exported/module_extra_to_files_mapping3.json', 'r', encoding='utf-8') as f:
     json_data = json.load(f)
 
 categories = list(json_data.keys())

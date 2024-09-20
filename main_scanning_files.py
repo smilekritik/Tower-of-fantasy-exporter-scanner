@@ -127,6 +127,7 @@ def process_no_module_attributes(modifiers, file_name_only, attribute_to_files, 
 
 
 def save_to_json(filename, data):
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
@@ -154,10 +155,10 @@ start_time = time.time()
 sorted_unique_attributes, attribute_files_map, attribute_to_files, module_extra_to_files, files_read, files_with_attributes = process_json_files(directory)
 end_time = time.time()
 
-save_to_json('unique_attributes_sorted.json', sorted_unique_attributes)
-save_to_json('attribute_files_map1.json', attribute_files_map)
-save_to_json('attribute_to_module_mapping2.json', attribute_to_files)
-save_to_json('module_extra_to_files_mapping3.json', module_extra_to_files)
+save_to_json('Exported/unique_attributes_sorted.json', sorted_unique_attributes)
+save_to_json('Exported/attribute_files_map1.json', attribute_files_map)
+save_to_json('Exported/attribute_to_module_mapping2.json', attribute_to_files)
+save_to_json('Exported/module_extra_to_files_mapping3.json', module_extra_to_files)
 
 
 log_summary(start_time, end_time, files_read, len(sorted_unique_attributes), files_with_attributes)
