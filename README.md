@@ -1,6 +1,7 @@
 # Scripts that scanning Tower of Fantasy files
 - `main_scanning_files.py` for scanning multype buffs and make json result
 - `scanned_result_to_exel.py` for converting json result to exel table
+- `patch_difference.py` for json compare
 > [!NOTE]
 > Project prepared for working with already exported game files
 
@@ -24,16 +25,25 @@ For example was used main game folder Resources, but you can scan entire game by
 
 Than start script and wait until it end.
 
-Results will be in:
+Results will be in folder `Exported`:
 - `unique_attributes_sorted.json` with all multype buffs that was founded
 - `attribute_files_map1.json`    -    AttributeName => [file_name] 
 > [!NOTE]
-> Some multype have same AttributeName but different ModuleExtraType header, which means that they will be multiplicative
+> Some multype have same AttributeName but different ModuleExtraType header, which means that they will be multiplicative,
 > so for correct information use next results:
 - `attribute_to_module_mapping2.json`    -    AttributeName => ModuleExtraType => [file_name]
 - `module_extra_to_files_mapping3.json`    -    ModuleExtraType => AttributeName => [file_name]
 ### [Converting result to Exel table](#script-exel)
-After scanning by `main_scanning_files.py` was completed u can use `scanned_result_to_exel.py`
+After scanning by `main_scanning_files.py` was completed you can use `scanned_result_to_exel.py`
 
 Results will be in:
 - `exported_v1.xlsx` with all information from `module_extra_to_files_mapping3.json`
+### [Make difference between patch](#script-difference)
+First of all - save file from previous patch in folder `Exported` as `module_extra_to_files_mapping3_old.json`
+
+After scanning by `main_scanning_files.py` was completed again, use `patch_difference.py`
+
+Results will be in folder `Exported`:
+- `difference.json` with all information that was added in new file
+
+Then you can use again `scanned_result_to_exel.py` with editing path to file
