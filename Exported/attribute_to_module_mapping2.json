@@ -289,6 +289,7 @@
             "Buff_BigSecret_SSR_stave_DamUp.json",
             "Buff_BigSecret_SSR_Suspension_DamUp.json",
             "Buff_BigSecret_SSR_Tianlang_DamUp.json",
+            "Buff_BigSecret_SSR_Tkatana_DamUp.json",
             "Buff_BigSecret_SSR_umbrella_DamUp.json",
             "Buff_BigSecret_SSR_Whip_DamUp.json",
             "Buff_BigSecret_SSR_Yanmiao_DamUp.json",
@@ -402,6 +403,7 @@
             "Buff_SickleFire_SSR_Level3.json",
             "Buff_SickleFire_SSR_Level5.json",
             "Buff_SnipeFire_SSR_Level6.json",
+            "Buff_Tkatana_BranchDMGUp.json",
             "Buff_AsukaDamDown_BreakFate.json",
             "GE_BrushSkill_ChangeSkillUP.json",
             "Buff_Loslyn_DmgUpL3_Balance.json",
@@ -463,6 +465,8 @@
             "Buff_StavesIce_Level3_SkillDamageUp_Balance.json",
             "Buff_SwordPhy_SSR_SkillRelease_DamageUp_Balance_AirAttack.json",
             "Buff_SwordPhy_SSR_SkillRelease_DamageUp_Balance_Melee.json",
+            "Buff_Tkatana_FinDMGUpEnemyNotAlone_In10M_Level3_Balance.json",
+            "Buff_Tkatana_MeleeDMGUp_Level6_Balance.json",
             "Buff_Arm_Level3_OverloadMachine_StackCount.json",
             "Buff_Feise_MeleeAndEvadeAttackDamUpLevel1_Balance.json",
             "Buff_Frigg_ExAttackDMG_L3_Balance.json",
@@ -579,6 +583,8 @@
             "buff_samir_level2_damage.json",
             "Buff_Imitation_Snipe_level1_DamageUP.json",
             "Buff_Imitation_Snipe_level2_DamageUP.json",
+            "Buff_Tkatana_Level1.json",
+            "Buff_Tkatana_Level2.json",
             "Buff_Whip_DamageUP_Level1.json",
             "Buff_Whip_DamageUP_Level2.json",
             "Buff_Yoyo_DmgUP_Level1.json",
@@ -606,6 +612,10 @@
             "Buff_Matrix_SR_5_level1_1.json",
             "Buff_Matrix_SR_5_level2_1.json",
             "Buff_Matrix_SR_5_level3_1.json",
+            "Buff_Matrix_SSR102_level1.json",
+            "Buff_Matrix_SSR102_level2.json",
+            "Buff_Matrix_SSR102_level3.json",
+            "Buff_Matrix_SSR102_level4.json",
             "Buff_Matrix_SSR41_level1_UP.json",
             "Buff_Matrix_SSR41_level2_UP.json",
             "Buff_Matrix_SSR41_level3_UP.json",
@@ -742,6 +752,14 @@
             "Buff_Matrix_SSR100_level2_Balance.json",
             "Buff_Matrix_SSR100_level3_Balance.json",
             "Buff_Matrix_SSR100_level4_Balance.json",
+            "Buff_Matrix_SSR101_FinDMGUp_Level1_Balance.json",
+            "Buff_Matrix_SSR101_FinDMGUp_Level2_Balance.json",
+            "Buff_Matrix_SSR101_FinDMGUp_Level3_Balance.json",
+            "Buff_Matrix_SSR101_FinDMGUp_Level4_Balance.json",
+            "Buff_Matrix_SSR102_FinDMGUpAfterEvadeAttackHit_Level1.json",
+            "Buff_Matrix_SSR102_FinDMGUpAfterEvadeAttackHit_Level2.json",
+            "Buff_Matrix_SSR102_FinDMGUpAfterEvadeAttackHit_Level3.json",
+            "Buff_Matrix_SSR102_FinDMGUpAfterEvadeAttackHit_Level4.json",
             "Buff_Matrix_SSR36_level1_Balance.json",
             "Buff_Matrix_SSR36_level2_Balance.json",
             "Buff_Matrix_SSR36_level3_Balance.json",
@@ -889,6 +907,8 @@
             "Buff_MarkPhy_SSR_Level3_1.json",
             "Buff_MiMiThu_SSR_Level6_Start.json",
             "Buff_Nora_SSR_Level6.json",
+            "Buff_Tkatana_Skill_FinDMGUp.json",
+            "Buff_Tkatana_Skill_FinDMGUp_Level6.json",
             "Buff_Yoyo_ElementsMaster_Effect.json",
             "Buff_YulanArray_Damup_Level1.json",
             "Buff_YulanForce_Damup_Level1.json",
@@ -896,6 +916,7 @@
             "Buff_YulanForce_Damup_Level6.json",
             "Buff_Ace_SkillDamageUp.json",
             "Damage_AyanamiRei_TraceArrow_Boom.json",
+            "Damage_AyanamiRei_TraceArrow_Boom_Balance.json",
             "Damage_AyanamiRei_TraceArrow_EvadeAttack.json",
             "Damage_AyanamiRei_TraceArrow_Melee.json",
             "Damage_AyanamiRei_TraceArrow_Passive.json",
@@ -935,6 +956,7 @@
             "Buff_Rubilia_SSR_Level3_DamageUp_Balance.json",
             "Buff_SwordPhy_SSR_Level1_DamageUp_Balance.json",
             "Buff_SwordPhy_SSR_Level3_SkillDamageUp_Balance.json",
+            "Buff_WeaponEvolution_EffectTrigger_DmgUp4_Effect.json",
             "GE_BowChangeSkillIce_SSR_Balance.json",
             "Buff_Rubilia_SummonDamUp_Balance.json",
             "GE_PlayerStavesChangeSkill2_SSR_Level3_Balance.json",
@@ -1004,6 +1026,9 @@
             "Buff_CriticalTransition_12_4_lv2.json",
             "Buff_CriticalTransition_12_4_lv3.json",
             "Buff_CriticalTransition_12_4_lv4.json"
+        ],
+        "ModuleExtraType_WeaponBonus": [
+            "Buff_WeaponEvolution_DmgUp.json"
         ]
     },
     "MoveSpeedMult": {
@@ -1031,6 +1056,7 @@
             "Buff_Cooking52.json",
             "Buff_Cooking54.json",
             "Buff_Drinks_001.json",
+            "Buff_Norn_Ranquest_005.json",
             "Buff_Jiuyu_Cooking40.json",
             "Buff_Jiuyu_Cooking6.json",
             "Buff_Wine_001.json",
@@ -1072,6 +1098,7 @@
             "buff_AddMoveSpeedFoodBase.json",
             "buff_Food_AddDiveSpeed.json",
             "Buff_GetWeapon_FightRob.json",
+            "Buff_GetWeapon_FightRob_Real.json",
             "buff_bailing_level1_speed.json",
             "buff_bailing_level2_speed.json",
             "Buff_Imitation_Genuonuo_level2_MoveSpeedSea.json",
@@ -1163,6 +1190,7 @@
             "Buff_Lances_Sneak_Major.json",
             "Buff_SnipeFire_SSR_Level1_SpeedCut.json",
             "Buff_SnipeFire_SSR_Level1_SpeedCut_PVP.json",
+            "Buff_Tkatana_Evade_Launch_SpeedCut.json",
             "Buff_UmbrellaFire_SSR_Level5_2.json",
             "Buff_8V8_Doctor.json",
             "Buff_Scuffle_ChangeAnimals_ChangeA.json",
@@ -1249,6 +1277,9 @@
             "GE_Immortal_Hold_1s.json",
             "GE_Immortal_Hold_5s.json",
             "Ge_Killknife_EvadeAttack_Bullet_Speedcut.json",
+            "buff_MSYX_Hacker_Running.json",
+            "buff_MSYX_SpeedDown.json",
+            "buff_MSYX_SpeedUp.json",
             "Buff_Linghan_FrostbiteSpeedDown.json",
             "Buff_Linghan_SpeedDown.json",
             "Buff_MerylX_StaticElec.json",
@@ -1325,6 +1356,7 @@
             "Buff_jiuyu_mon_SnowRabbit_Infect_Change.json",
             "GE_ShanGuang_XK.json",
             "Buff_ChangeTATA_supermario.json",
+            "Buff_ReduceBodyScale.json",
             "Buff_speedcut_boss_071.json",
             "Buff_HorseRacing_PiLaoSpeedDown.json",
             "Buff_FrozenSpeedDown_HorseRacing.json",
@@ -1340,6 +1372,7 @@
             "BUFF_Orienteering_SpeedUP10_Skate.json",
             "Buff_IceSpeedDown_JHMZ.json",
             "SubBuff_GT_SpeedIncre.json",
+            "GE_PowerBall_OnUse.json",
             "Buff_player_SpeedUp.json",
             "Buff_SpeedUp_SpurtBubble.json",
             "Buff_ChangeMia_Confuse_PaoPaoVS.json",
@@ -1404,6 +1437,7 @@
             "buff_BreakFate_suppress_002.json",
             "Buff_DarkArea_BeHealDown.json",
             "Buff_ShieldFire_SSR_Level2_Effect.json",
+            "Buff_Tkatana_ReduceHealing.json",
             "buff_War_HealedDown.json",
             "buff_tower_player_BeHealedDown90.json",
             "GE_boss_hum_037_4_single_disabled.json",
@@ -2085,6 +2119,7 @@
             "Buff_Player_Bygone_012.json",
             "buff_2V2_CB_02.json",
             "Buff_GetWeapon_FightRob.json",
+            "Buff_GetWeapon_FightRob_Real.json",
             "Buff_CantSecondJumpAndSprint.json",
             "Buff_GetWeapon_EvaRob_NJC.json",
             "Buff_NornCanteen_Tofu_FireDamageUp.json",
@@ -2100,7 +2135,8 @@
             "BUff_RunOnWall_Artifact_SSR_019_Level3.json",
             "BUff_RunOnWall_Artifact_SSR_019_Level2_Balance.json",
             "BUff_RunOnWall_Artifact_SSR_019_Level3_Balance.json",
-            "Buff_Jump_supermario.json"
+            "Buff_Jump_supermario.json",
+            "Buff_ReduceBodyScale.json"
         ]
     },
     "EnergyRecoverMult": {
@@ -2398,6 +2434,11 @@
             "buff_Wormhole_Tank11_Level1_1.json",
             "buff_Wormhole_Tank11_Level2_1.json",
             "buff_Wormhole_Tank11_Level3_1.json",
+            "GE_MonHPDown80Percent.json",
+            "GE_MonHPUp200Percent.json",
+            "GE_MonHPUp900Percent.json",
+            "GE_MonHPUp100Percent.json",
+            "GE_MonHPUp300Percent.json",
             "Buff_boss_044_sp_phy_stack.json",
             "Buff_AsukaHpUp_BreakFate.json",
             "Buff_EvaJDFW_MonsterHpDownAndAtkUp.json",
@@ -2437,6 +2478,7 @@
             "Artifact_SSR001_MaxHPUp_Balance.json",
             "Artifact_SSR002_MaxHPUp_Balance.json",
             "Buff_jiuyu_Bless_CD.json",
+            "Buff_ReduceBodyScale.json",
             "Buff_Colosseum_HealthUp15000Percent.json",
             "Buff_Colosseum_HealthUp20000Percent.json",
             "HookClone_MaxHp-20.json",
@@ -2610,6 +2652,7 @@
             "Buff_boss_059_resist.json",
             "buff_Boss062_FinalDmgDown.json",
             "buff_Boss062_FinalDmgUp.json",
+            "buff_Boss073_FinalDmgDown.json",
             "SubBuff_GT_DmgRed.json",
             "Battle_Defence_up_60s_50.json",
             "buff_Monster_BeDmgDownLevel1.json",
@@ -3013,6 +3056,7 @@
             "Buff_QueenSuperPower_SSR_Level0_Start.json",
             "Actor_GE_Buff_StavesIce_SSR_Level6_2.json",
             "Buff_SwordPhy_Phy_Resonance_Overseas.json",
+            "Buff_Tkatana_Physic_SSR_Level0_Resonance.json",
             "Buff_UmbrellaFire_SSR_Level3_2.json",
             "Buff_Whip_Physic_Resonance.json",
             "Buff_Whip_Physic_Resonance_OS.json",
@@ -3155,6 +3199,10 @@
             "Buff_MasterGift_BigWorld_AtkUp_MaxHpUp_4per_Effect.json",
             "Buff_MasterGift_JiuRiHuanXiang_AtkUp_MaxHpUp_4per_Effect.json",
             "Buff_MasterGift_OptionalBoss_AtkUp_MaxHpUp_4per_Effect.json",
+            "Buff_Matrix_SSR101_level1.json",
+            "Buff_Matrix_SSR101_level2.json",
+            "Buff_Matrix_SSR101_level3.json",
+            "Buff_Matrix_SSR101_level4.json",
             "Buff_Matrix_SSR35_level1_AttackUP.json",
             "Buff_Matrix_SSR35_level2_AttackUP.json",
             "Buff_Matrix_SSR35_level3_AttackUP.json",
@@ -3279,6 +3327,7 @@
             "Buff_SnipeFire_SSR_Level0_Resonance.json",
             "Buff_SnipeFire_SSR_Level0_Resonance_OS.json",
             "Actor_GE_Buff_StavesIce_SSR_Level6_2.json",
+            "Buff_Tkatana_Flame_SSR_Level0_Resonance.json",
             "Buff_UmbrellaFire_SSR_Level0_Resonance.json",
             "Buff_UmbrellaFire_SSR_Level3_2.json",
             "Buff_UmbrellaFire_SSR_Level0_Resonance_OS.json",
@@ -3874,6 +3923,7 @@
             "Buff_Paradox_Physic_SSR_Level0_Resonance.json",
             "Buff_SicklePhy_SSR_Level4_1.json",
             "Buff_SwordPhy_Phy_Resonance_Overseas.json",
+            "Buff_Tkatana_Physic_SSR_Level0_Resonance.json",
             "Buff_Whip_Physic_Resonance.json",
             "Buff_Whip_Physic_Resonance_OS.json",
             "Buff_Zeke_Physic_Resonance.json",
@@ -3956,6 +4006,7 @@
             "Buff_Paradox_Flame_SSR_Level0_Resonance.json",
             "Buff_SnipeFire_SSR_Level0_Resonance.json",
             "Buff_SnipeFire_SSR_Level0_Resonance_OS.json",
+            "Buff_Tkatana_Flame_SSR_Level0_Resonance.json",
             "Buff_UmbrellaFire_SSR_Level0_Resonance.json",
             "Buff_UmbrellaFire_SSR_Level0_Resonance_OS.json",
             "Buff_Zeke_Fire_Resonance_OS.json",
@@ -4080,6 +4131,7 @@
     "IceDefMult": {
         "NoModule": [
             "Buff_GWZJ_Ordinal7_Level1.json",
+            "Buff_Norn_Ranquest_008.json",
             "Buff_Jiuyu_Cooking40.json",
             "Buff_Jiuyu_Cooking41.json",
             "Buff_De_Def_Up_lv1.json",
@@ -4538,9 +4590,14 @@
         "ModuleExtraType_Pet": [
             "Buff_Imitation_DFish_Level2.json",
             "Buff_Imitation_NanYin_level2_DamageUP.json",
-            "Buff_Imitation_Paradox_level2_DamageUP.json"
+            "Buff_Imitation_Paradox_level2_DamageUP.json",
+            "Buff_Tkatana_Level2.json"
         ],
         "ModuleExtraType_Talent": [
+            "Buff_Matrix_SSR102_level1.json",
+            "Buff_Matrix_SSR102_level2.json",
+            "Buff_Matrix_SSR102_level3.json",
+            "Buff_Matrix_SSR102_level4.json",
             "Buff_Matrix_SSR51_level1_Child.json",
             "Buff_Matrix_SSR51_level2_Child.json",
             "Buff_Matrix_SSR51_level3_Child.json",
@@ -4639,8 +4696,7 @@
             "Artifact_FireUp15.json",
             "Artifact_FireUp20.json",
             "buff_FireUP.json",
-            "Buff_SpeedAndElementATKUp_Artifact_SSR021.json",
-            "Buff_SpeedAndElementATKUp_Artifact_SSR021_Level2.json"
+            "Buff_SpeedAndElementATKUp_Artifact_SSR021.json"
         ],
         "ModuleExtraType_WeaponPassive": [
             "Buff_BowIce_Level1_2_OS.json",
@@ -4734,6 +4790,10 @@
             "Buff_arrayDMGUp_level2.json"
         ],
         "ModuleExtraType_Talent": [
+            "Buff_Matrix_SSR102_level1.json",
+            "Buff_Matrix_SSR102_level2.json",
+            "Buff_Matrix_SSR102_level3.json",
+            "Buff_Matrix_SSR102_level4.json",
             "Buff_Matrix_SSR43_icedam.json",
             "Buff_Matrix_SSR52_level1.json",
             "Buff_Matrix_SSR52_level2.json",
@@ -4841,8 +4901,7 @@
             "Artifact_IceUp15.json",
             "Artifact_IceUp20.json",
             "buff_IceUP.json",
-            "Buff_SpeedAndElementATKUp_Artifact_SSR021.json",
-            "Buff_SpeedAndElementATKUp_Artifact_SSR021_Level2.json"
+            "Buff_SpeedAndElementATKUp_Artifact_SSR021.json"
         ],
         "ModuleExtraType_WeaponActive": [
             "Buff_Asuka_SSR_Level3_always.json",
@@ -4948,6 +5007,10 @@
         ],
         "ModuleExtraType_Talent": [
             "Buff_Matrix_N_3.json",
+            "Buff_Matrix_SSR102_level1.json",
+            "Buff_Matrix_SSR102_level2.json",
+            "Buff_Matrix_SSR102_level3.json",
+            "Buff_Matrix_SSR102_level4.json",
             "Buff_Matrix_SSR47_DamageUp_level1.json",
             "Buff_Matrix_SSR47_DamageUp_level2.json",
             "Buff_Matrix_SSR47_DamageUp_level3.json",
@@ -5036,8 +5099,7 @@
             "Artifact_PhyUp15.json",
             "Artifact_PhyUp20.json",
             "buff_PhyUP.json",
-            "Buff_SpeedAndElementATKUp_Artifact_SSR021.json",
-            "Buff_SpeedAndElementATKUp_Artifact_SSR021_Level2.json"
+            "Buff_SpeedAndElementATKUp_Artifact_SSR021.json"
         ],
         "ModuleExtraType_WeaponPassive": [
             "Buff_BowIce_Level1_2_OS.json",
@@ -5101,6 +5163,9 @@
             "Buff_Cooking28.json",
             "Buff_Cooking50.json",
             "Buff_Drinks_003.json",
+            "Buff_Norn_Cooking1.json",
+            "Buff_Norn_Ranquest_008.json",
+            "Buff_Norn_Ranquest_012.json",
             "Buff_Jiuyu_Cooking41.json",
             "Buff_Jiuyu_Cooking5.json",
             "Buff_Wine_003.json",
@@ -5170,6 +5235,37 @@
             "Buff_HideCloakLoop.json"
         ]
     },
+    "IceDefAdded": {
+        "NoModule": [
+            "Buff_Norn_Ranquest_008.json",
+            "Buff_Jiuyu_Cooking40.json",
+            "Buff_Jiuyu_Cooking41.json",
+            "Buff_TeamFB_JointOperation.json",
+            "buff_Wormhole_Kill_Alldef_Level1.json",
+            "buff_Wormhole_Kill_Alldef_Level2.json",
+            "buff_Wormhole_Kill_Alldef_Level3.json",
+            "GE_NanYinChangeSkill_JiCheng.json",
+            "GE_buff_bd_soldier2_Ice_Effect.json",
+            "buff_bd_Shooter_Second_01_Fire_Effect.json",
+            "buff_soldier_First_Ice_Effect.json",
+            "GE_Soldier_First_Ice_Effect.json",
+            "buff_soldier_Second_Ice_Effect.json",
+            "GE_Soldier_Second_01_Ice_Effect.json",
+            "GE_buff_bd_soldier_First_01_Ice_Effect.json",
+            "GE_buff_bd_soldier_First_01_Ice_Effect_Friend.json",
+            "buff_bd_soldier_Second_01_Ice_Effect_self.json",
+            "GE_buff_bd_soldier_Second_01_Ice_Effect.json",
+            "GE_buff_bd_soldier_Second_01_Ice_Effect_Friend.json",
+            "Buff_Equipment_Reactor_Def_L1_S1.json",
+            "Buff_Equipment_Reactor_Def_L2_S1.json",
+            "Buff_Equipment_Reactor_Def_S1.json",
+            "Buff_Equipment_Reactor_Def_L1_S2.json",
+            "Buff_Equipment_Reactor_Def_L2_S2.json",
+            "Buff_Equipment_Reactor_Def_S2.json",
+            "Buff_jiuyu_Bless_Defense.json",
+            "Buff_jiuyu_Bless_Item_Defense.json"
+        ]
+    },
     "DamageAggroScale": {
         "NoModule": [
             "Buff_Jiuyu_Cooking36.json",
@@ -5212,36 +5308,6 @@
             "Buff_Jiuyu_Cooking39.json",
             "buff_AddHealthFoodBase.json",
             "buff_Food_AddRecoveryHp.json"
-        ]
-    },
-    "IceDefAdded": {
-        "NoModule": [
-            "Buff_Jiuyu_Cooking40.json",
-            "Buff_Jiuyu_Cooking41.json",
-            "Buff_TeamFB_JointOperation.json",
-            "buff_Wormhole_Kill_Alldef_Level1.json",
-            "buff_Wormhole_Kill_Alldef_Level2.json",
-            "buff_Wormhole_Kill_Alldef_Level3.json",
-            "GE_NanYinChangeSkill_JiCheng.json",
-            "GE_buff_bd_soldier2_Ice_Effect.json",
-            "buff_bd_Shooter_Second_01_Fire_Effect.json",
-            "buff_soldier_First_Ice_Effect.json",
-            "GE_Soldier_First_Ice_Effect.json",
-            "buff_soldier_Second_Ice_Effect.json",
-            "GE_Soldier_Second_01_Ice_Effect.json",
-            "GE_buff_bd_soldier_First_01_Ice_Effect.json",
-            "GE_buff_bd_soldier_First_01_Ice_Effect_Friend.json",
-            "buff_bd_soldier_Second_01_Ice_Effect_self.json",
-            "GE_buff_bd_soldier_Second_01_Ice_Effect.json",
-            "GE_buff_bd_soldier_Second_01_Ice_Effect_Friend.json",
-            "Buff_Equipment_Reactor_Def_L1_S1.json",
-            "Buff_Equipment_Reactor_Def_L2_S1.json",
-            "Buff_Equipment_Reactor_Def_S1.json",
-            "Buff_Equipment_Reactor_Def_L1_S2.json",
-            "Buff_Equipment_Reactor_Def_L2_S2.json",
-            "Buff_Equipment_Reactor_Def_S2.json",
-            "Buff_jiuyu_Bless_Defense.json",
-            "Buff_jiuyu_Bless_Item_Defense.json"
         ]
     },
     "CommonAtkAdded": {
@@ -5332,7 +5398,13 @@
             "Buff_Equipment_Reactor_Attack_S1.json",
             "Buff_Equipment_Reactor_Attack_L1_S2.json",
             "Buff_Equipment_Reactor_Attack_L2_S2.json",
-            "Buff_Equipment_Reactor_Attack_S2.json"
+            "Buff_Equipment_Reactor_Attack_S2.json",
+            "Buff_Equipment_Reactor_Attack_L1_S3.json",
+            "Buff_Equipment_Reactor_Attack_L2_S3.json",
+            "Buff_Equipment_Reactor_Attack_L3_S3.json",
+            "Buff_Equipment_Visor_Attack_L1_S3.json",
+            "Buff_Equipment_Visor_Attack_L2_S3.json",
+            "Buff_Equipment_Visor_Attack_L3_S3.json"
         ]
     },
     "ThunderAtkExtraUpMult": {
@@ -5408,6 +5480,10 @@
         ],
         "ModuleExtraType_Talent": [
             "Buff_Matrix_N_4.json",
+            "Buff_Matrix_SSR102_level1.json",
+            "Buff_Matrix_SSR102_level2.json",
+            "Buff_Matrix_SSR102_level3.json",
+            "Buff_Matrix_SSR102_level4.json",
             "Buff_Matrix_SSR39_AttackUP.json",
             "Buff_Matrix_SSR40_level1_AttackUP.json",
             "Buff_Matrix_SSR40_level2_AttackUP.json",
@@ -5514,8 +5590,7 @@
             "Artifact_ThunderUp15.json",
             "Artifact_ThunderUp20.json",
             "buff_ThunderUP.json",
-            "Buff_SpeedAndElementATKUp_Artifact_SSR021.json",
-            "Buff_SpeedAndElementATKUp_Artifact_SSR021_Level2.json"
+            "Buff_SpeedAndElementATKUp_Artifact_SSR021.json"
         ],
         "ModuleExtraType_WeaponActive": [
             "Buff_Asuka_SSR_Level3_always.json",
@@ -5563,6 +5638,7 @@
             "Buff_WeaponPas_006_Lv1a.json",
             "Buff_BowIce_SSR_Level5_2.json",
             "GE_DFishChess_JumpAttack_EnergyCost.json",
+            "Buff_Tkatana_EnergyCost.json",
             "Buff_boss_044_sp_superpower_energy_reduce.json",
             "Buff_Ace_EnergyCost_AirSkill.json",
             "Buff_Ace_EnergyCost_Branch.json",
@@ -6038,10 +6114,16 @@
             "SingleClone_buff_SY.json",
             "buff_wormhole_022_10_DamageUp.json",
             "buff_wormhole_022_5_DamageUp.json",
+            "GE_MonAtkDown80Percent.json",
+            "GE_MonAtkUp200Percent.json",
+            "GE_MonAtkUp900Percent.json",
+            "GE_MonAtkUp100Percent.json",
+            "GE_MonAtkUp300Percent.json",
             "Buff_boss_012_5_weak.json",
             "Buff_angry.json",
             "Buff_Boss_065_2.json",
             "Buff_mon_hum_197_Rage_AttackUp.json",
+            "GE_mon_hum_204_Wild.json",
             "Buff_Loslyn_SkillDebuff.json",
             "buff_lucktarrow_08.json",
             "buff_void2_balance_1_balance.json",
@@ -6260,7 +6342,13 @@
             "Buff_Equipment_Reactor_Attack_S1.json",
             "Buff_Equipment_Reactor_Attack_L1_S2.json",
             "Buff_Equipment_Reactor_Attack_L2_S2.json",
-            "Buff_Equipment_Reactor_Attack_S2.json"
+            "Buff_Equipment_Reactor_Attack_S2.json",
+            "Buff_Equipment_Reactor_Attack_L1_S3.json",
+            "Buff_Equipment_Reactor_Attack_L2_S3.json",
+            "Buff_Equipment_Reactor_Attack_L3_S3.json",
+            "Buff_Equipment_Visor_Attack_L1_S3.json",
+            "Buff_Equipment_Visor_Attack_L2_S3.json",
+            "Buff_Equipment_Visor_Attack_L3_S3.json"
         ]
     },
     "Rigidity": {
@@ -6436,7 +6524,13 @@
     },
     "ElementDef": {
         "NoModule": [
-            "buff_AddElementDefFoodBase.json"
+            "buff_AddElementDefFoodBase.json",
+            "Buff_Equipment_Reactor_Def_L1_S3.json",
+            "Buff_Equipment_Reactor_Def_L2_S3.json",
+            "Buff_Equipment_Reactor_Def_L3_S3.json",
+            "Buff_Equipment_Visor_Def_L1_S3.json",
+            "Buff_Equipment_Visor_Def_L2_S3.json",
+            "Buff_Equipment_Visor_Def_L3_S3.json"
         ]
     },
     "FireAtkFixedAdded": {
@@ -6591,6 +6685,15 @@
             "Buff_Equipment_Reactor_Def_L1_S2.json",
             "Buff_Equipment_Reactor_Def_L2_S2.json",
             "Buff_Equipment_Reactor_Def_S2.json",
+            "Buff_Equipment_Engine_SpHeal_MaxHpUp_L1_S3.json",
+            "Buff_Equipment_Engine_SpHeal_MaxHpUp_L2_S3.json",
+            "Buff_Equipment_Engine_SpHeal_MaxHpUp_S3.json",
+            "Buff_Equipment_Reactor_Def_L1_S3.json",
+            "Buff_Equipment_Reactor_Def_L2_S3.json",
+            "Buff_Equipment_Reactor_Def_L3_S3.json",
+            "Buff_Equipment_Visor_Def_L1_S3.json",
+            "Buff_Equipment_Visor_Def_L2_S3.json",
+            "Buff_Equipment_Visor_Def_L3_S3.json",
             "HOTTA3Fbattle_HP_1350.json",
             "HOTTA3Fbattle_HP_240.json",
             "HOTTA3Fbattle_HP_450.json"
@@ -6691,6 +6794,10 @@
             "Buff_Imitation_NanYin_level2_DamageUP.json"
         ],
         "ModuleExtraType_Talent": [
+            "Buff_Matrix_SSR102_level1.json",
+            "Buff_Matrix_SSR102_level2.json",
+            "Buff_Matrix_SSR102_level3.json",
+            "Buff_Matrix_SSR102_level4.json",
             "Buff_Matrix_SSR56_level1_Effect.json",
             "Buff_Matrix_SSR56_level2_Effect.json",
             "Buff_Matrix_SSR56_level3_Effect.json",
@@ -6781,8 +6888,7 @@
         ],
         "ModuleExtraType_CardPassive": [
             "buff_SuperPowerUP.json",
-            "Buff_SpeedAndElementATKUp_Artifact_SSR021.json",
-            "Buff_SpeedAndElementATKUp_Artifact_SSR021_Level2.json"
+            "Buff_SpeedAndElementATKUp_Artifact_SSR021.json"
         ]
     },
     "HealedUpMult": {
@@ -7062,7 +7168,11 @@
     },
     "ElementDefMult": {
         "NoModule": [
-            "Buff_DarkArea_RedLight_ToM.json"
+            "Buff_DarkArea_RedLight_ToM.json",
+            "GE_MonAllEleDefDown60Percent.json",
+            "GE_MonAllEleDefUp1900Percent.json",
+            "GE_MonAllEleDefUp400Percent.json",
+            "GE_MonAllEleDefUp200Percent.json"
         ]
     },
     "WarningRangeMult": {
