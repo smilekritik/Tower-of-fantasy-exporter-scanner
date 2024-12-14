@@ -109,6 +109,8 @@
     "MaxHealthMult",
     "MaxSatietyAdded",
     "MaxWhipCharge",
+    "MechaMaxEnergyAdded",
+    "MechaMaxHPAdded",
     "MerylxEnergy",
     "MountMoveSpeedMult",
     "MoveSpeedMult",
