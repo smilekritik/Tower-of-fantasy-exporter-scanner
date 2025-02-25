@@ -256,6 +256,7 @@
             "Buff_BigSecret_SR_spear_DamUp.json",
             "Buff_BigSecret_SR_stave_DamUp.json",
             "Buff_BigSecret_SSR_Ace_DamUp.json",
+            "Buff_BigSecret_SSR_Antoria_DamUp.json",
             "Buff_BigSecret_SSR_arm_DamUp.json",
             "Buff_BigSecret_SSR_Asuka_DamUp.json",
             "Buff_BigSecret_SSR_AyanamiRei_DamUp1.json",
@@ -547,6 +548,8 @@
             "Buff_Imitation_Ace_level2.json",
             "Buff_Alyss_Level1_1.json",
             "Buff_Alyss_Level2_1.json",
+            "Buff_Imitation_Antoria_Level1.json",
+            "Buff_Imitation_Antoria_Level2.json",
             "Buff_Asuka_Level1.json",
             "Buff_Asuka_Level2.json",
             "Buff_AyanamiRei_Level1.json",
@@ -653,6 +656,10 @@
             "Buff_Matrix_SSR108_level2.json",
             "Buff_Matrix_SSR108_level3.json",
             "Buff_Matrix_SSR108_level4.json",
+            "Buff_Matrix_SSR110_level1.json",
+            "Buff_Matrix_SSR110_level2.json",
+            "Buff_Matrix_SSR110_level3.json",
+            "Buff_Matrix_SSR110_level4.json",
             "Buff_Matrix_SSR41_level1_UP.json",
             "Buff_Matrix_SSR41_level2_UP.json",
             "Buff_Matrix_SSR41_level3_UP.json",
@@ -807,6 +814,14 @@
             "Buff_Matrix_SSR108_FinDMGUp_level2_Balance.json",
             "Buff_Matrix_SSR108_FinDMGUp_level3_Balance.json",
             "Buff_Matrix_SSR108_FinDMGUp_level4_Balance.json",
+            "Buff_Matrix_SSR109_level1_Balance.json",
+            "Buff_Matrix_SSR109_level2_Balance.json",
+            "Buff_Matrix_SSR109_level3_Balance.json",
+            "Buff_Matrix_SSR109_level4_Balance.json",
+            "Buff_Matrix_SSR110_level1DamUp_Balance.json",
+            "Buff_Matrix_SSR110_level2DamUp_Balance.json",
+            "Buff_Matrix_SSR110_level3DamUp_Balance.json",
+            "Buff_Matrix_SSR110_level4DamUp_Balance.json",
             "Buff_Matrix_SSR36_level1_Balance.json",
             "Buff_Matrix_SSR36_level2_Balance.json",
             "Buff_Matrix_SSR36_level3_Balance.json",
@@ -931,6 +946,8 @@
             "Buff_WeaponPas_005_Lv1b.json",
             "Buff_WeaponPas_008_Lv1.json",
             "Buff_BowFire_SR_Level1_1_DoubleWeapon.json",
+            "Buff_Antoria_SSR_MeleeDamageUpLevel3_Balance.json",
+            "Buff_Antoria_SSR_MeleeDamageUpLevel5_Balance.json",
             "Buff_ArmPhy_SSR_Level3_1.json",
             "Buff_ArmPhy_SSR_Level6_1.json",
             "Buff_BigSwordIce_Level5_1_BreakFate.json",
@@ -966,6 +983,9 @@
             "Buff_YulanArray_Damup_Level6.json",
             "Buff_YulanForce_Damup_Level6.json",
             "Buff_Ace_SkillDamageUp.json",
+            "Buff_Antoria_WingsEnergeticState.json",
+            "Buff_Antoria_SSR_CostEnergyDamageUp_Balance.json",
+            "Buff_Antoria_WingsEnergeticState_Balance.json",
             "Damage_AyanamiRei_TraceArrow_Boom.json",
             "Damage_AyanamiRei_TraceArrow_Boom_Balance.json",
             "Damage_AyanamiRei_TraceArrow_EvadeAttack.json",
@@ -1070,10 +1090,12 @@
             "Buff_CriticalTransition_10_DamUp_lv2.json",
             "Buff_CriticalTransition_10_DamUp_lv3.json",
             "Buff_CriticalTransition_10_DamUp_lv4.json",
+            "Buff_CriticalTransition_11_FInDMGUpWhenUnCritPercent.json",
             "Buff_CriticalTransition_11_lv1.json",
             "Buff_CriticalTransition_11_lv2.json",
             "Buff_CriticalTransition_11_lv3.json",
             "Buff_CriticalTransition_11_lv4.json",
+            "Buff_CriticalTransition_12_1_FInDMGUpWhenUnCrit.json",
             "Buff_CriticalTransition_12_1_lv1.json",
             "Buff_CriticalTransition_12_1_lv2.json",
             "Buff_CriticalTransition_12_1_lv3.json",
@@ -1082,10 +1104,12 @@
             "Buff_CriticalTransition_12_2_lv2.json",
             "Buff_CriticalTransition_12_2_lv3.json",
             "Buff_CriticalTransition_12_2_lv4.json",
+            "Buff_CriticalTransition_12_3_FInDMGUpWhenUnCrit.json",
             "Buff_CriticalTransition_12_3_lv1.json",
             "Buff_CriticalTransition_12_3_lv2.json",
             "Buff_CriticalTransition_12_3_lv3.json",
             "Buff_CriticalTransition_12_3_lv4.json",
+            "Buff_CriticalTransition_12_4_FInDMGUpWhenUnCrit.json",
             "Buff_CriticalTransition_12_4_lv1.json",
             "Buff_CriticalTransition_12_4_lv2.json",
             "Buff_CriticalTransition_12_4_lv3.json",
@@ -1309,6 +1333,7 @@
             "GE_mon_hum_055_SubSpeed_2.json",
             "GE_boss_064_SubSpeed.json",
             "GE_Boss067_I_SubSpeed.json",
+            "Buff_boss_078_team8p_dash_speeddown.json",
             "GE_hum_009_skill1_02.json",
             "Buff_speedcut_mon_hum_075.json",
             "buff_silkweb_speedcut.json",
@@ -1317,6 +1342,7 @@
             "Buff_gel.json",
             "BUff_SpeedUp_mon_hum_123_Accompany.json",
             "Buff_mud_mon_hum_127.json",
+            "Buff_Antoria_SpeedUpLevel3.json",
             "GE_EnergyGrab3v1_JIAS1.json",
             "GE_EnergyGrab3v1_JIAS2.json",
             "GE_BigSwordChangeSkillIce_SSR_SpeedCut.json",
@@ -1406,6 +1432,7 @@
             "BUff_RunOnWall_Artifact_SSR_019_Level3.json",
             "Buff_SpeedUp_Artifact_ssr_020.json",
             "Buff_CantSprintAndEvade.json",
+            "GE_Artifact_SSR_025_OnUse.json",
             "GE_ArtifactR002_Boom_stun_Level5_Balance.json",
             "GE_ArtifactR002_Boom_stun_Level7_Balance.json",
             "GE_Artifact_SR_005_OnUse_Balance.json",
@@ -1482,6 +1509,7 @@
             "buff_Wormhole_AllAtk_Level3.json",
             "buff_Wormhole_PhyAtk_Level1.json",
             "buff_Wormhole_PhyAtk_Level2.json",
+            "Buff_Blevi_Assist_Passive_AtkCritUp_Balance.json",
             "GE_NanYinChangeSkill_JiCheng.json",
             "buff_Wormhole_AllAtk2_Level1_balance.json",
             "buff_Wormhole_AllAtk2_Level2_balance.json",
@@ -2312,6 +2340,7 @@
             "GE_boss_064_LockHP.json",
             "Buff_Boss_065_LockHP1_-1_1.json",
             "Buff_Boss_066_LockHP1_-1_1.json",
+            "Buff_boss_073_Team8P_Skill02_shadow.json",
             "Buff_boss_hum_074_LockHP.json",
             "Buff_Boss_076_Story_LockHP1_-1_1.json",
             "Buff_boss_079_team8p_immuneDeath_main.json",
@@ -2664,11 +2693,14 @@
             "GE_boss_hum_067_ReduceDam.json",
             "Buff_boss_hum_067_Team8P_DmgReduction.json",
             "Buff_boss_073_Level01b.json",
+            "Buff_boss_hum_073_Team8P_DmgReduction.json",
             "Buff_boss_hum_074_Team8P_DmgReduction.json",
             "Buff_boss_075_damage_resist.json",
             "Buff_boss075_8p_BeDmgDown_50.json",
             "Buff_boss075_8p_BeDmgDown_90.json",
             "Buff_Boss_hum_076_Indefense.json",
+            "Buff_boss_081_team8p_beDamagedDown.json",
+            "Buff_boss_081_team8p_beDamagedDown_extra.json",
             "Buff_boss_079_charge_fire_stack.json",
             "Buff_boss_079_charge_ice_stack.json",
             "Buff_boss_079_team8p_beDamagedDown_fire.json",
@@ -3127,9 +3159,13 @@
             "buff_matrix_ssr25_CostAtk_level3.json",
             "buff_matrix_ssr25_CostAtk_level4.json",
             "Buff_Matrix_37_Level1.json",
+            "Buff_Matrix_37_Level1_1.json",
             "Buff_Matrix_37_Level2.json",
+            "Buff_Matrix_37_Level2_1.json",
             "Buff_Matrix_37_Level3.json",
+            "Buff_Matrix_37_Level3_1.json",
             "Buff_Matrix_37_Level4.json",
+            "Buff_Matrix_37_Level4_1.json",
             "Buff_Matrix_SSR_4_level1_3.json",
             "Buff_Matrix_SSR_4_level2_3.json",
             "Buff_Matrix_SSR_4_level3_3.json",
@@ -3226,6 +3262,9 @@
             "Buff_AtkDown_PlugIn.json",
             "Buff_AtkUp_PlugIn.json",
             "buff_void_player_1001_Balance.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4_L1.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4_L2.json",
             "Buff_FeiseVisionAbsorbCommonAtkMult_Balance.json",
             "Artifact_SR010_PhyAtkUp_Balance.json",
             "Buff_bushi_mon_hum_071_rage.json",
@@ -3506,6 +3545,9 @@
             "Buff_AtkDown_PlugIn.json",
             "Buff_AtkUp_PlugIn.json",
             "buff_void_player_1001_Balance.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4_L1.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4_L2.json",
             "Buff_FeiseVisionAbsorbCommonAtkMult_Balance.json",
             "Artifact_SSR004_FireAtkUp_Balance.json",
             "Buff_bushi_mon_hum_071_rage.json",
@@ -3601,6 +3643,10 @@
             "Buff_Matrix_SSR107_level2.json",
             "Buff_Matrix_SSR107_level3.json",
             "Buff_Matrix_SSR107_level4.json",
+            "Buff_Matrix_SSR109_level1.json",
+            "Buff_Matrix_SSR109_level2.json",
+            "Buff_Matrix_SSR109_level3.json",
+            "Buff_Matrix_SSR109_level4.json",
             "Buff_Matrix_SSR35_level1_AttackUP.json",
             "Buff_Matrix_SSR35_level2_AttackUP.json",
             "Buff_Matrix_SSR35_level3_AttackUP.json",
@@ -3682,6 +3728,7 @@
             "buff_hyd.json",
             "buff_hyd_balance.json",
             "Buff_WeaponCommon_ThuAtk.json",
+            "Buff_Antoria_Thunder_Resonance.json",
             "Buff_AyanamiRei_Thunder_Resonance.json",
             "Buff_BlackStar_Thunder_SSR_Level0_Resonance.json",
             "Buff_Blevi_Thunder_Resonance.json",
@@ -3763,6 +3810,9 @@
             "Buff_AtkDown_PlugIn.json",
             "Buff_AtkUp_PlugIn.json",
             "buff_void_player_1001_Balance.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4_L1.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4_L2.json",
             "Buff_FeiseVisionAbsorbCommonAtkMult_Balance.json",
             "GE_SuspensionSkill_Buff_AttackUP_Level5_Balance.json",
             "Buff_bushi_mon_hum_071_rage.json",
@@ -3939,6 +3989,7 @@
             "buff_hyd_balance.json",
             "Buff_WeaponCommon_IceAtk.json",
             "Buff_CannonIce_SR_Level6_damage_BreakFate.json",
+            "Buff_Antoria_Ice_Resonance.json",
             "Buff_AyanamiRei_Ice_SSR_Resonance.json",
             "Buff_BlackStar_Ice_SSR_Level0_Resonance.json",
             "Buff_Blevi_Ice_Resonance.json",
@@ -4030,6 +4081,9 @@
             "Buff_AtkDown_PlugIn.json",
             "Buff_AtkUp_PlugIn.json",
             "buff_void_player_1001_Balance.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4_L1.json",
+            "Buff_Equipment_Goggles_SpMarkDamage_AtkDown_S4_L2.json",
             "Buff_FeiseVisionAbsorbCommonAtkMult_Balance.json",
             "Buff_bushi_mon_hum_071_rage.json",
             "Buff_LuckTarot_Monster_Level1.json",
@@ -4232,6 +4286,7 @@
             "Buff_sakifuwa_AddDefL2.json",
             "Buff_Matrix_SSR89_IceAndThunderDefDown.json",
             "Buff_WeaponCommon_ThuDefDown.json",
+            "Buff_Antoria_Thunder_Resonance.json",
             "Buff_AyanamiRei_Thunder_Resonance.json",
             "Buff_BlackStar_Thunder_SSR_Level0_Resonance.json",
             "Buff_Blevi_Thunder_Resonance.json",
@@ -4316,6 +4371,7 @@
             "Buff_sakifuwa_AddDefL2.json",
             "Buff_Matrix_SSR89_IceAndThunderDefDown.json",
             "Buff_WeaponCommon_IceDefDown.json",
+            "Buff_Antoria_Ice_Resonance.json",
             "Buff_AyanamiRei_Ice_SSR_Resonance.json",
             "Buff_BlackStar_Ice_SSR_Level0_Resonance.json",
             "Buff_Blevi_Ice_Resonance.json",
@@ -4478,6 +4534,9 @@
             "buff_bd_Assistant_Second_01_Fire_TreatUp_AssistantWeapon.json",
             "GE_SuspensionChangeSkill_Buff_Assistant.json",
             "Buff_Matrix_SSR81_level1_Balance.json",
+            "Buff_Matrix_SSR81_level2_Balance.json",
+            "Buff_Matrix_SSR81_level3_Balance.json",
+            "Buff_Matrix_SSR81_level4_Balance.json",
             "buff_level_balance_15.json",
             "buff_lucktarrow_02.json",
             "Buff_HealUp_PlugIn.json",
@@ -4591,6 +4650,7 @@
     "ThunderDefIgnoreMult": {
         "NoModule": [
             "Buff_GWZJ_OriginWar2.json",
+            "Buff_Antoria_SSR_Level3.json",
             "Buff_BlackStar_Level3_AttackIgnoreDefend.json",
             "Buff_Lances_AtkIgnoreDef.json",
             "Buff_Nora_SSR_Level3.json",
@@ -4673,6 +4733,7 @@
             "Buff_Team_010_EvadeAdd.json",
             "buff_wormhole_Assist8_AddEvade.json",
             "buff_wormhole_030_EvadeAdd_1.json",
+            "Buff_Antoria_EvadeAdd.json",
             "GE_BrushSkill_EvadeAdd_Start.json",
             "Buff_Frigg_AddEvadeNum.json",
             "Buff_Frigg_AddEvadeNum_First.json",
@@ -5609,7 +5670,13 @@
             "Buff_Equipment_Reactor_Attack_L3_S3.json",
             "Buff_Equipment_Visor_Attack_L1_S3.json",
             "Buff_Equipment_Visor_Attack_L2_S3.json",
-            "Buff_Equipment_Visor_Attack_L3_S3.json"
+            "Buff_Equipment_Visor_Attack_L3_S3.json",
+            "Buff_Equipment_Reactor_Attack_L1_S4.json",
+            "Buff_Equipment_Reactor_Attack_L2_S4.json",
+            "Buff_Equipment_Reactor_Attack_L3_S4.json",
+            "Buff_Equipment_Visor_Attack_L1_S4.json",
+            "Buff_Equipment_Visor_Attack_L2_S4.json",
+            "Buff_Equipment_Visor_Attack_L3_S4.json"
         ]
     },
     "ThunderAtkExtraUpMult": {
@@ -5675,6 +5742,7 @@
             "buff_origin_balance2_8.json"
         ],
         "ModuleExtraType_Pet": [
+            "Buff_Imitation_Antoria_Level2.json",
             "Buff_AyanamiRei_Level2.json",
             "Buff_Imitation_BlackStar_Level2.json",
             "Buff_MerylX_Level2.json",
@@ -5694,6 +5762,10 @@
             "Buff_Matrix_SSR106_level2.json",
             "Buff_Matrix_SSR106_level3.json",
             "Buff_Matrix_SSR106_level4.json",
+            "Buff_Matrix_SSR110_level1.json",
+            "Buff_Matrix_SSR110_level2.json",
+            "Buff_Matrix_SSR110_level3.json",
+            "Buff_Matrix_SSR110_level4.json",
             "Buff_Matrix_SSR39_AttackUP.json",
             "Buff_Matrix_SSR40_level1_AttackUP.json",
             "Buff_Matrix_SSR40_level2_AttackUP.json",
@@ -5803,6 +5875,7 @@
             "Buff_SpeedAndElementATKUp_Artifact_SSR021.json"
         ],
         "ModuleExtraType_WeaponActive": [
+            "Buff_Antoria_SSR_Level6.json",
             "Buff_Asuka_SSR_Level3_always.json",
             "Buff_Blevi_SSR_Level3_always.json",
             "Buff_AyanamiReiEnergyState_DamageUp_Level6.json",
@@ -5825,6 +5898,7 @@
             "Actor_GE_Buff_StavesIce_SSR_Level6_2_OS.json",
             "Buff_SwordPhy_SSR_Level1_DamageUp_OS.json",
             "Buff_SwordPhy_SSR_Level5_SkillDamageUp_OS.json",
+            "Buff_Antoria_WingsEnergeticState.json",
             "Buff_Blevi_Skill_Enhance.json",
             "Buff_Rubilia_AddDamageL6.json",
             "Buff_Rubilia_ChangeSkillAddDamage.json",
@@ -5856,6 +5930,9 @@
             "Buff_Ace_EnergyCost_Branch.json",
             "Buff_Ace_EnergyCost_JumpAttack.json",
             "Buff_Ace_EnergyCost_PowerAttack.json",
+            "GE_AntoriaJumpAttack_EnergyCost.json",
+            "Buff_AntoriaFly_EnergyCost.json",
+            "Buff_AntoriaFly_EnergyCost_Up.json",
             "Buff_Arm_EnergyCost.json",
             "Buff_Arm_EnergyRecover.json",
             "GE_AsukaJumpAttack_EnergyCost.json",
@@ -5965,6 +6042,7 @@
             "buff_Wormhole_AllAtk_Level3.json",
             "buff_Wormhole_FireAtk_Level1.json",
             "buff_Wormhole_FireAtk_Level2.json",
+            "Buff_Blevi_Assist_Passive_AtkCritUp_Balance.json",
             "GE_NanYinChangeSkill_JiCheng.json",
             "buff_Wormhole_AllAtk2_Level1_balance.json",
             "buff_Wormhole_AllAtk2_Level2_balance.json",
@@ -5992,6 +6070,7 @@
             "buff_Wormhole_AllAtk_Level3.json",
             "buff_Wormhole_ThunderAtk_Level1.json",
             "buff_Wormhole_ThunderAtk_Level2.json",
+            "Buff_Blevi_Assist_Passive_AtkCritUp_Balance.json",
             "GE_NanYinChangeSkill_JiCheng.json",
             "buff_Wormhole_AllAtk2_Level1_balance.json",
             "buff_Wormhole_AllAtk2_Level2_balance.json",
@@ -6019,6 +6098,7 @@
             "buff_Wormhole_AllAtk_Level3.json",
             "buff_Wormhole_IceAtk_Level1.json",
             "buff_Wormhole_IceAtk_Level2.json",
+            "Buff_Blevi_Assist_Passive_AtkCritUp_Balance.json",
             "GE_NanYinChangeSkill_JiCheng.json",
             "buff_Wormhole_AllAtk2_Level1_balance.json",
             "buff_Wormhole_AllAtk2_Level2_balance.json",
@@ -6142,8 +6222,6 @@
             "GE_boss019_AddDamageBuff_balance.json",
             "Buff_AttackUp_mon_hum_123_Accompany.json",
             "buff_level_balance_mon_11.json",
-            "Buff_AtkDown_PlugIn.json",
-            "Buff_AtkUp_PlugIn.json",
             "Buff_bushi_mon_hum_071_rage.json",
             "Buff_LuckTarot_Monster_Level1.json",
             "Buff_LuckTarot_Monster_Level2.json",
@@ -6567,7 +6645,13 @@
             "Buff_Equipment_Reactor_Attack_L3_S3.json",
             "Buff_Equipment_Visor_Attack_L1_S3.json",
             "Buff_Equipment_Visor_Attack_L2_S3.json",
-            "Buff_Equipment_Visor_Attack_L3_S3.json"
+            "Buff_Equipment_Visor_Attack_L3_S3.json",
+            "Buff_Equipment_Reactor_Attack_L1_S4.json",
+            "Buff_Equipment_Reactor_Attack_L2_S4.json",
+            "Buff_Equipment_Reactor_Attack_L3_S4.json",
+            "Buff_Equipment_Visor_Attack_L1_S4.json",
+            "Buff_Equipment_Visor_Attack_L2_S4.json",
+            "Buff_Equipment_Visor_Attack_L3_S4.json"
         ]
     },
     "Rigidity": {
@@ -6753,7 +6837,13 @@
             "Buff_Equipment_Reactor_Def_L3_S3.json",
             "Buff_Equipment_Visor_Def_L1_S3.json",
             "Buff_Equipment_Visor_Def_L2_S3.json",
-            "Buff_Equipment_Visor_Def_L3_S3.json"
+            "Buff_Equipment_Visor_Def_L3_S3.json",
+            "Buff_Equipment_Reactor_Def_L1_S4.json",
+            "Buff_Equipment_Reactor_Def_L2_S4.json",
+            "Buff_Equipment_Reactor_Def_L3_S4.json",
+            "Buff_Equipment_Visor_Def_L1_S4.json",
+            "Buff_Equipment_Visor_Def_L2_S4.json",
+            "Buff_Equipment_Visor_Def_L3_S4.json"
         ]
     },
     "FireAtkFixedAdded": {
@@ -6917,6 +7007,15 @@
             "Buff_Equipment_Visor_Def_L1_S3.json",
             "Buff_Equipment_Visor_Def_L2_S3.json",
             "Buff_Equipment_Visor_Def_L3_S3.json",
+            "Buff_Equipment_Engine_SpHeal_MaxHpUp_S4.json",
+            "Buff_Equipment_Engine_SpHeal_MaxHpUp_S4_L1.json",
+            "Buff_Equipment_Engine_SpHeal_MaxHpUp_S4_L2.json",
+            "Buff_Equipment_Reactor_Def_L1_S4.json",
+            "Buff_Equipment_Reactor_Def_L2_S4.json",
+            "Buff_Equipment_Reactor_Def_L3_S4.json",
+            "Buff_Equipment_Visor_Def_L1_S4.json",
+            "Buff_Equipment_Visor_Def_L2_S4.json",
+            "Buff_Equipment_Visor_Def_L3_S4.json",
             "HOTTA3Fbattle_HP_1350.json",
             "HOTTA3Fbattle_HP_240.json",
             "HOTTA3Fbattle_HP_450.json"
@@ -7425,16 +7524,8 @@
             "Buff_FightRob_GravityChange.json",
             "Buff_FightRob_GravityChange_Short.json",
             "Buff_FightRob_GravityChange_Short_Skill.json",
-            "Buff_FightRob_GravityChange_Shot.json"
-        ]
-    },
-    "MechaCombatMult": {
-        "NoModule": [
-            "Buff_FightRob_MeleeDamageDown.json",
-            "Buff_FightRob_MeleeDamageUP.json",
-            "Buff_FightRob_MeleeDamageUP_Long.json",
-            "Buff_FightRob_AfterShot_SkillDamageUp_Real.json",
-            "Buff_FightRob_SkillDamageAndEnergyUp.json"
+            "Buff_FightRob_GravityChange_Shot.json",
+            "Buff_Antoria_GravityChange_Branch.json"
         ]
     },
     "MechaEnergyRecoverMult": {
@@ -7442,6 +7533,11 @@
             "Buff_FightRob_NoAirEnergyRecover.json",
             "GE_Shield_NoEntryCost_FightRob.json",
             "GE_Shield_NoEntryCost_FightRoB_Evade.json"
+        ]
+    },
+    "MechaRayMult": {
+        "NoModule": [
+            "Buff_FightRob_NornSpecial_1_3.json"
         ]
     },
     "MechaDefMult": {
@@ -7472,20 +7568,6 @@
             "Buff_FightRob_PermanentEnergy.json",
             "Buff_FightRob_PermanentEnergy_Long.json",
             "Buff_FightRob_PermanentEnergy_Quest.json"
-        ]
-    },
-    "MechaFirearmsMult": {
-        "NoModule": [
-            "Buff_FightRob_RangeDamageDown.json",
-            "Buff_FightRob_RangeDamageUP.json",
-            "Buff_FightRob_RangeDamageUP_Long.json"
-        ]
-    },
-    "MechaCannonMult": {
-        "NoModule": [
-            "Buff_FightRob_RangeDamageDown.json",
-            "Buff_FightRob_RangeDamageUP.json",
-            "Buff_FightRob_RangeDamageUP_Long.json"
         ]
     },
     "MaxSatietyAdded": {
@@ -7836,6 +7918,11 @@
             "GE_Soldier_Second_01_Ice_Effect.json",
             "GE_Soldier_Second_Fire_HPDamage.json",
             "GE_Soldier_Second_Thu_HPDamage.json"
+        ]
+    },
+    "Crit": {
+        "NoModule": [
+            "Buff_Blevi_Assist_Passive_AtkCritUp_Balance.json"
         ]
     },
     "EvaRobEnergy": {
