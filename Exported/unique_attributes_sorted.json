@@ -118,6 +118,7 @@
     "MechaEnergy",
     "MechaEnergyConsumeDownMult",
     "MechaEnergyRecoverMult",
+    "MechaFinalDamageExtraUpMult",
     "MechaFirearmsFireSpeedMult",
     "MechaMaxATFieldMult",
     "MechaMoveSpeedMult",
